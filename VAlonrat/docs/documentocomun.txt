@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Documento en común:
 manito1
+=======
+Documento común:
+manito3
+>>>>>>> manito3
